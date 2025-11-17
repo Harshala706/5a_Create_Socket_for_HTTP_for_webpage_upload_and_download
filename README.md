@@ -1,5 +1,5 @@
 Name : B Harshala Reddy
-
+ 
 Register Number : 212224040050
  
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
@@ -53,5 +53,8 @@ download_file(host, port, 'example.txt')
  print("File downloaded successfully.")
 ```
 ## OUTPUT
+<img width="1103" height="666" alt="5a" src="https://github.com/user-attachments/assets/fc4936a6-a1da-440a-8879-f19fb30ff431" />
+
+
 ## Result
-Thus the socket for HTTP for web page upload and download created and Executed
+Thus the socket for HTTP for web page upload and download created and Executed.
